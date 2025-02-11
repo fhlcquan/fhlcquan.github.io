@@ -7,6 +7,8 @@
     "email":"fhlcq@hotmail.com", 
     "startSite":"02/10/2025", 
     "filingNum":"萌ICP备20250210号",
+    "i18n":"CN", 
+    "UTC":8,
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "singlePage":["yqlj"], 
